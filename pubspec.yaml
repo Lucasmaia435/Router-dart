@@ -1,0 +1,8 @@
+name: router_dart
+version: 0.0.1
+homepage: https://github.com/Lucasmaia435/Router-dart
+documentation: https://github.com/Lucasmaia435/Router-dart
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  

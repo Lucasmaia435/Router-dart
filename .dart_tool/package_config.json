@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "router_dart",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2021-12-01T23:16:41.842355Z",
+  "generator": "pub",
+  "generatorVersion": "2.14.4"
+}
